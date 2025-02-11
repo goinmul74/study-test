@@ -1,0 +1,11 @@
+git init
+
+git remote add origin https://github.com/goinmul74/study-test   => 로컬저장소, 원격저장소 연결
+git config --global user.name goinmul74   ==> 사용자 추가
+git config --global user.email goinmul1974@gmail.com   ==> 사용자 email
+
+git add .  ==> 로컬 영역에 저장
+git commit -m "세팅"   ==> 작업한 내용 명시
+
+git push origin master
+
