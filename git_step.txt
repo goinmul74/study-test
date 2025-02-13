@@ -9,3 +9,8 @@ git commit -m "세팅"   ==> 작업한 내용 명시
 
 git push origin master
 
+
+git add .
+git commit -m "배치"
+git push origin master
+
