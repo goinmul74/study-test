@@ -11,6 +11,6 @@ git push origin master
 
 
 git add .
-git commit -m "배치2"
+git commit -m "배치3"
 git push origin masters
 
